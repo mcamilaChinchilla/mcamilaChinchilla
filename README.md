@@ -2,7 +2,7 @@
 
 ### 💻 Tecnóloga en ADSO | Desarrolladora Front-end | Python | JavaScript
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcamilaChinchilla&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcamilaChinchilla&theme=dracula&hide_border=verdadero&short_numbers=FALSO)](https://git.io/streak-stats)
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=mcamilaChinchilla&show_icons=true&theme=radical&hide_border=true)](https://github.com/mcamilaChinchilla)
 
 ## 🚀 Sobre Mí
