@@ -3,7 +3,7 @@
 ### 💻 Tecnóloga en ADSO | Desarrolladora Front-end | Python | JavaScript
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcamilaChinchilla&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=mcamilaChinchilla&show_icons=true&theme=radical&hide_border=true)](https://github.com/cami629)
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=mcamilaChinchilla&show_icons=true&theme=radical&hide_border=true)](https://github.com/mcamilaChinchilla)
 
 ## 🚀 Sobre Mí
 
@@ -11,7 +11,7 @@ Soy una desarrolladora apasionada por crear soluciones innovadoras con interface
 
 - 🎓 **Tecnóloga en Análisis y Desarrollo de Software** - SENA
 - 💼 **Técnico en Soporte de Sistemas** - Instituto System Chalk
-- 🌟 **Especialización:** Desarrollo Front-end y aplicaciones con Python
+- 🌟 **Especialización:** Desarrollo Front-end 
 - 📍 **Ubicación:** Villavicencio, Meta, Colombia
 - 🎯 **Disponibilidad:** Trabajo remoto
 - 📧 **Contacto:** mcamil10ch@gmail.com
@@ -43,7 +43,7 @@ Sitio web responsive para restaurante desarrollado con Bootstrap, con menú inte
 
 ## 📊 Lenguajes Más Usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamilaChinchilla&layout=compact&theme=radical&hide_border=true)](https://github.com/cami629)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamilaChinchilla&layout=compact&theme=radical&hide_border=true)](https://github.com/mcamilaChinchilla)
 
 ## 📫 Conecta Conmigo
 
