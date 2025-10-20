@@ -13,7 +13,7 @@ Soy una desarrolladora apasionada por crear soluciones innovadoras con interface
 
 - 🎓 **Tecnóloga en Análisis y Desarrollo de Software** - SENA
 - 💼 **Técnico en Soporte de Sistemas** - Instituto System Chalk
-- 🌟 **Especialización:** Desarrollo Front-end y aplicaciones con Python
+- 🌟 **Especialización:** Desarrollo Front-end 
 - 📍 **Ubicación:** Villavicencio, Meta, Colombia
 - 🎯 **Disponibilidad:** Trabajo remoto
 - 📧 **Contacto:** mcamil10ch@gmail.com
