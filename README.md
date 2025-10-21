@@ -34,7 +34,7 @@ Soy una desarrolladora apasionada por crear soluciones innovadoras con interface
 
 ## 💼 Proyectos Destacados
 
-### ☕ Simulador de Cafetería
+### ☕ Café virtual
 Aplicación interactiva en Python con Tkinter que simula una cafetería con interfaz gráfica, efectos de sonido y personalización de bebidas.
 
 ### 🎮 Juego de Memoria JavaScript
